@@ -16,9 +16,9 @@ This quest is to migrate the [Lido Finance Subgraph](https://thegraph.com/explor
 
 # Quest Info
 
-| Category         | Skill Level                           | Time required (hours) | Max Participants | Reward                                | Status |
-| ---------------- | ------------------------------------- | --------------------- | ---------------- | ------------------------------------- | ------ |
-| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~20                   | 5                | $\textcolor{red}{\textsf{3000tSQD}}$  | open   |
+| Category         | Skill Level                           | Time required (hours) | Max Participants | Reward                                | Status | End date |
+| ---------------- | ------------------------------------- | --------------------- | ---------------- | ------------------------------------- | ------ | -------- |
+| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~20                   | 5                | $\textcolor{red}{\textsf{3000tSQD}}$  | open   | 10/12/2023 | 
 
 # Acceptance critera
 
